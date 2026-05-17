@@ -1,16 +1,86 @@
-# React + Vite
+# Pyco Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pyco Card is a React + Vite coding card game designed to make learning Python fun while helping future software engineers prepare for technical interviews.
 
-Currently, two official plugins are available:
+Players pick cards and answer coding-related questions in a game-like format.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Interactive coding card game
+- Python-based questions
+- Score tracking
+- Beginner-friendly interface
+- Built with React Vite and CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# How To Run The Project
+
+## 1. Clone The Repository
+
+```bash
+git clone YOUR_REPOSITORY_LINK
+```
+
+---
+
+## 2. Open The Project Folder
+
+```bash
+cd YOUR_PROJECT_FOLDER
+```
+
+---
+
+## 3. Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 4. Start The Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 5. Open The Local Website
+
+Vite will provide a local link similar to:
+
+```bash
+http://localhost:5173
+```
+
+Open the link in your browser.
+
+---
+
+# Technologies Used
+
+- React
+- Vite
+- CSS
+- JavaScript
+
+---
+
+# Future Plans
+
+- Add LeetCode-style questions
+- Add multiplayer support
+- Add difficulty levels
+- Add timer and leaderboard system
+- Add backend/database support
+
+---
+
+# Purpose
+
+Pyco Card was created to help students feel less intimidated by coding and technical interviews by turning programming practice into a fun interactive game.
