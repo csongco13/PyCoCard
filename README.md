@@ -1,8 +1,12 @@
 # Pyco Card
+![PyCoCard Preview](pic/Screenshot 2026-05-17 022619.png)
+![PyCoCard Preview](pic/Screenshot 2026-05-17 023344.png)
+![PyCoCard Preview](pic/Screenshot 2026-05-17 023447.png)
 
 Pyco Card is a React + Vite coding card game designed to make learning Python fun while helping future software engineers prepare for technical interviews.
 
 Players pick cards and answer coding-related questions in a game-like format.
+
 
 ---
 
@@ -16,49 +20,10 @@ Players pick cards and answer coding-related questions in a game-like format.
 
 ---
 
-# How To Run The Project
+# To play or try out the game
+# Here is a live demo:
 
-## 1. Clone The Repository
-
-```bash
-git clone YOUR_REPOSITORY_LINK
-```
-
----
-
-## 2. Open The Project Folder
-
-```bash
-cd YOUR_PROJECT_FOLDER
-```
-
----
-
-## 3. Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## 4. Start The Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## 5. Open The Local Website
-
-Vite will provide a local link similar to:
-
-```bash
-http://localhost:5173
-```
-
-Open the link in your browser.
+https://py-co-card.vercel.app/
 
 ---
 

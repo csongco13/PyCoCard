@@ -10,8 +10,8 @@ function Game() {
     <main className="game-page chat-game-page">
       <section className="chat-game-shell">
         <aside className="chat-side-panel">
-          <h1 className="side-title">CODE</h1>
-          <h2 className="side-subtitle">DUEL</h2>
+          <h1 className="side-title">PICK A CARD</h1>
+          <h2 className="side-subtitle">Any Card!</h2>
           <p className="side-label">Python Card Battle</p>
           <div className="side-pill">2 Players</div>
           <div className="side-pill">Race to 10</div>
@@ -27,7 +27,7 @@ function Game() {
           </div>
 
           <section className="game-header">
-            <h1 className="game-title">Code Duel</h1>
+            <h1 className="game-title">PyCoCard</h1>
             <p className="game-subtitle">Choose a card. Solve the Python code. Race to 10 points.</p>
           </section>
 
