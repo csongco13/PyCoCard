@@ -1,7 +1,4 @@
 # Pyco Card
-![PyCoCard Preview](pic/Screenshot 2026-05-17 022619.png)
-![PyCoCard Preview](pic/Screenshot 2026-05-17 023344.png)
-![PyCoCard Preview](pic/Screenshot 2026-05-17 023447.png)
 
 Pyco Card is a React + Vite coding card game designed to make learning Python fun while helping future software engineers prepare for technical interviews.
 
